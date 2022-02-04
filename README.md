@@ -1,5 +1,5 @@
 
-## PET TREk
+## PET
 ## Available Scripts
 
 In the project directory, you can run:
